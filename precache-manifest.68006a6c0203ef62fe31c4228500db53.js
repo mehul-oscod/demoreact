@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7b9090389c2babed09eb2d8ed56cd2f6",
+    "revision": "b5ba242f4e2af5e6953e7b5e22685c97",
     "url": "/demoreact/index.html"
   },
   {
-    "revision": "f53609c9f594153f8e67",
+    "revision": "49dd97b4aa6baae1a37f",
     "url": "/demoreact/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demoreact/static/js/2.0928ce5b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f53609c9f594153f8e67",
-    "url": "/demoreact/static/js/main.4df9f31e.chunk.js"
+    "revision": "49dd97b4aa6baae1a37f",
+    "url": "/demoreact/static/js/main.27f5f487.chunk.js"
   },
   {
     "revision": "b16bf76d187354d489b1",

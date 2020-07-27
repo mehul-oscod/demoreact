@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/demoreact/static/css/main.5f361e03.chunk.css",
-    "main.js": "/demoreact/static/js/main.4df9f31e.chunk.js",
-    "main.js.map": "/demoreact/static/js/main.4df9f31e.chunk.js.map",
+    "main.js": "/demoreact/static/js/main.27f5f487.chunk.js",
+    "main.js.map": "/demoreact/static/js/main.27f5f487.chunk.js.map",
     "runtime-main.js": "/demoreact/static/js/runtime-main.68321b56.js",
     "runtime-main.js.map": "/demoreact/static/js/runtime-main.68321b56.js.map",
     "static/js/2.0928ce5b.chunk.js": "/demoreact/static/js/2.0928ce5b.chunk.js",
     "static/js/2.0928ce5b.chunk.js.map": "/demoreact/static/js/2.0928ce5b.chunk.js.map",
     "index.html": "/demoreact/index.html",
-    "precache-manifest.a3d1762f1416988640dadf5a40fefc88.js": "/demoreact/precache-manifest.a3d1762f1416988640dadf5a40fefc88.js",
+    "precache-manifest.68006a6c0203ef62fe31c4228500db53.js": "/demoreact/precache-manifest.68006a6c0203ef62fe31c4228500db53.js",
     "service-worker.js": "/demoreact/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/demoreact/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.0928ce5b.chunk.js.LICENSE.txt": "/demoreact/static/js/2.0928ce5b.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.68321b56.js",
     "static/js/2.0928ce5b.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.4df9f31e.chunk.js"
+    "static/js/main.27f5f487.chunk.js"
   ]
 }
